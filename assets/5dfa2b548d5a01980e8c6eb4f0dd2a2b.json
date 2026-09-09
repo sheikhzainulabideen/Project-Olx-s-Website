@@ -1,0 +1,24 @@
+{
+  "name": "OLX Pakistan - Buy and Sell",
+  "short_name": "OLX",
+  "icons": [
+    {
+      "src": "assets/favicon-16x16.fa033c68d2c1a1ec23c5ea856285a8f8.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon-32x32.c065cb44f3d5c320948bd3197eaddbf3.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/apple-touch-icon.95bca7754d7f65ca21002bb2e909e540.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#002f34",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
